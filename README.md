@@ -1,0 +1,2 @@
+Este projeto foi submetido a um processo de melhoria da qualidade do código por meio da aplicação dos princípios SOLID, aumentando a coesão e reduzindo a blindagem das classes, garantindo assim maior manutenibilidade e extensibilidade.
+Foram identificados e eliminados diversos code cheiros, como métodos com alta complexidade ciclomática, duplicações e dependências, o que contribuiu para um código mais limpo e sustentável.
